@@ -20,3 +20,24 @@
 
 ---
  
+5. **Decision Control**
+    - if
+    - else
+    - else if
+
+---
+
+6. **Loop**
+    - for
+    - for in (Object)
+    - for of (Array)
+
+**Jump Statements**
+    - break,
+    continue
+
+---
+
+7. **Function**
+
+---
