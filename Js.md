@@ -39,5 +39,11 @@
 ---
 
 7. **Function**
+    - Function Declaration (Named Function)
+    - Function Expression
+    - Arrow Function
+    - Anonymous Function
+    - IIFE : Immediately Invoked Function Expression
+    - Constructor Function
 
 ---
