@@ -47,3 +47,23 @@
     - Constructor Function
 
 ---
+
+8. **Array**
+    - Push
+    - Pop
+    - Shift
+    - Unshift
+    - Slice
+    - Splice
+    - ForEach
+    - Map
+    - Filter
+    - Reduce
+
+---
+
+9. **String**
+
+---
+
+10. **Dom , Events**
